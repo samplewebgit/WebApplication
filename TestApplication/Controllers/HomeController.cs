@@ -10,7 +10,7 @@ namespace TestApplication.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Dev Home Page";
 
             return View();
         }
